@@ -1,0 +1,83 @@
+.bg-custom {
+	background-color: rgba(255,255,255,0.95);
+}
+
+a:link {
+    text-decoration: none!important;
+}
+
+a:visited {
+    text-decoration: none!important;
+}
+
+a:hover {
+    text-decoration: none!important;
+}
+
+a:active {
+    text-decoration: none!important;
+}
+
+.lght {
+	color: #EEEEEE;
+}
+
+.lght:hover {
+	color: #AAAAAA;
+}
+
+
+
+
+.navbar {
+	margin-bottom: 0px;
+	padding-left: 4vw!important;
+}
+
+span {
+	font-size: 2vw!important; 
+	overflow: scroll;
+}
+
+
+.splash {
+	background-image: url("../img/splash.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	min-height: 100vh!important;
+	line-height: 1.5vw;
+}
+
+.splashContainer {
+	padding-top: 28vh;
+	padding-left: 7vw!important;
+	color: black;
+}
+
+.splashTitle {
+	font-size: 7vw;
+}
+
+.title {
+	font-size: 4vw;
+}
+
+.content {
+	line-height: 2vw;
+	background-color: #bdffe7;
+	padding-top: 20vh;
+	color: black;
+}
+
+.colProjects {
+	text-align: center;
+	padding: 2vw;
+}
+
+.fa {
+    padding: 2vw;
+    text-align: center;
+	text-decoration: none;
+	color: black;
+}
